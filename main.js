@@ -48,5 +48,5 @@ function flipReset() {
     img_2.src = "img/img.jpg";
     img_3.src = "img/img.jpg";
     isCardFlipped = true;
-    result_msg.innerHTML = "<b>Your Result Will Be Shown Here.</b>"     
+    result_msg.innerHTML = "<b>Your result will be here.</b>"     
 };
